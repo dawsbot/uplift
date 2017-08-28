@@ -2,7 +2,7 @@
   A minimal AF happy random quote site
 <p>
 
-![](screenshot.png)
+![](images/screenshot.png)
 
 Chrome extension coming soon!
 
