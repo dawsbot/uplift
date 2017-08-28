@@ -4,3 +4,5 @@
 
 ![](screenshot.png)
 
+Chrome extension coming soon!
+
