@@ -22,6 +22,7 @@ var quotes = [
   'Stop being afraid of what could go wrong and start being positive about what could go right.',
   'A wolf does not lose sleep over the opinion of sheep.',
   'Be a Fruit Loop in a world of Cheerios.',
+  'Do not be dismayed by the brokenness of the world. All things break. And all things can be mended. Not with time, as they say, but with intention. So go. Love intentionally, extravagantly, unconditionally. The broken world waits in darkness for the light that is you. ~ L.R.Knost'
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
