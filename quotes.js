@@ -33,7 +33,7 @@ var quotes = [
   'Know the difference between those who stay to feed the soil and those who come to grab the fruit.',
   'Chains of habit are too light to be felt until they are too heavy to be broken. ~ Warren Buffett',
   'Clutter is anything that doesn’t support your better self. ~ Eleanor Brown',
-  'If it’s not a Hell Yeah!, it’s a no ~ Derek Sivers',
+  'If it’s not a Hell Yeah!, it’s a no',
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
