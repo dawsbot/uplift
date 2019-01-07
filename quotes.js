@@ -22,7 +22,18 @@ var quotes = [
   'Stop being afraid of what could go wrong and start being positive about what could go right.',
   'A wolf does not lose sleep over the opinion of sheep.',
   'Be a Fruit Loop in a world of Cheerios.',
-  'Do not be dismayed by the brokenness of the world. All things break. And all things can be mended. Not with time, as they say, but with intention. So go. Love intentionally, extravagantly, unconditionally. The broken world waits in darkness for the light that is you. ~ L.R.Knost'
+  'Do not be dismayed by the brokenness of the world. All things break. And all things can be mended. Not with time, as they say, but with intention. So go. Love intentionally, extravagantly, unconditionally. The broken world waits in darkness for the light that is you. ~ L.R.Knost',
+  'Just remember; someone loves everything you hate about yourself ~ Frank Ocean',
+  'Selfish people end up having only their self.',
+  'It is not death that a man should fear, but he should fear never beginning to live. ~ Marcus Aurelius',
+  'Comparison is the thief of joy. ~ Theodore Roosevelt',
+  'Take care of your body. It’s the only place you have to live in.',
+  'Sleep is the best meditation ~ Dalai Lama',
+  'You can’t do big things if you’re distracted by small things',
+  'Know the difference between those who stay to feed the soil and those who come to grab the fruit.',
+  'Chains of habit are too light to be felt until they are too heavy to be broken. ~ Warren Buffett',
+  'Clutter is anything that doesn’t support your better self. ~ Eleanor Brown',
+  'If it’s not a Hell Yeah!, it’s a no ~ Derek Sivers',
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
