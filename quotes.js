@@ -54,6 +54,15 @@ var quotes = [
   'When life gets too hard to stand, kneel',
   'If it doesn\'t open, it\'s not your door',
   'Push yourself, nobody else is going to do it for you',
+  'What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal ~ Victor Frankl',
+  'Find something to be enthustiastic about, get good at it, and give it away ~ Paul Teodo',
+  'The wound is where the light enters you ~ Rumi',
+  'If you\'re suffering, maybe you\'re too self-focused',
+  'Gratitude is wine for the soul. Go on, get drunk',
+  'Perfection is boring, passion is inspiring.',
+  'Learn the rules like a professional, then break the rules like an artist.',
+  'We can never experience our real nature unless we expose ourselves to change',
+  'It is no measure of health to be well adjusted to a profoundly sick society',
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
