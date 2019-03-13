@@ -63,6 +63,12 @@ var quotes = [
   'Learn the rules like a professional, then break the rules like an artist.',
   'We can never experience our real nature unless we expose ourselves to change',
   'It is no measure of health to be well adjusted to a profoundly sick society',
+  'A smile is happiness you\'ll find right under your nose. ~ Tom Wilson',
+  'Most people do not listen with the intent to understand. They listen with the intent to reply. Be the former, not the latter.',
+  'Whether you think you can, or you think you can\'t--you\'re right. ~ Henry Ford',
+  'The best way to make your dreams come true is to wake up. ~ Paul Valery',
+  'Suffering is the difference between what is and what we want it to be.',
+  'A wise man once said nothing',
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
