@@ -69,6 +69,15 @@ var quotes = [
   'The best way to make your dreams come true is to wake up. ~ Paul Valery',
   'Suffering is the difference between what is and what we want it to be.',
   'A wise man once said nothing',
+  'How wonderful it is that nobody need wait a single moment before beginning to improve the world. ~ Anne Frank',
+  'Talking too much about yourself can also be a means to conceal yourself ~ Nietzsche',
+  'When you are grateful fear disappears and abundance appears. ~ Tony Robbins',
+  'If you do what you’ve always done, you’ll get what you’ve always gotten.',
+  'It is in your moments of decision that your destiny is shaped.',
+  'The only thing that’s keeping you from getting what you want is the story you keep telling yourself.',
+  'You don’t have to have a reason to feel good—you’re alive; you can feel good for no reason at all!',
+  'If you talk about it, it’s a dream, if you envision it, it’s possible, but if you schedule it, it’s real.',
+  'Stay committed to your decisions, but stay flexible in your approach.',
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
