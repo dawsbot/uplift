@@ -78,6 +78,9 @@ var quotes = [
   'You don’t have to have a reason to feel good—you’re alive; you can feel good for no reason at all!',
   'If you talk about it, it’s a dream, if you envision it, it’s possible, but if you schedule it, it’s real.',
   'Stay committed to your decisions, but stay flexible in your approach.',
+  'We accept the type of love we think we observe',
+  'Treat yourself like you\'re someone that you love',
+  'You only live once, but if you do it right, once is enough.'
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
