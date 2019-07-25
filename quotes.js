@@ -80,7 +80,10 @@ var quotes = [
   'Stay committed to your decisions, but stay flexible in your approach.',
   'We accept the type of love we think we observe',
   'Treat yourself like you\'re someone that you love',
-  'You only live once, but if you do it right, once is enough.'
+  'You only live once, but if you do it right, once is enough.',
+  'The more we look for threats, the more we will see them.',
+  'Creating rules for happiness is what prevents feeling happiness.',
+  'The most important things in life are non-transactional. You can not conspire for happiness.'
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
