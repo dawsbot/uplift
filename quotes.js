@@ -83,7 +83,10 @@ var quotes = [
   'You only live once, but if you do it right, once is enough.',
   'The more we look for threats, the more we will see them.',
   'Creating rules for happiness is what prevents feeling happiness.',
-  'The most important things in life are non-transactional. You can not conspire for happiness.'
+  'The most important things in life are non-transactional. You can not conspire for happiness.',
+  'Don\'t become a wandering generality. Be a meaningful specific.',
+  'There’s a myth that time is money. In fact, time is more precious than money. It’s a nonrenewable resource. Once you’ve spent it, and if you’ve spent it badly, it’s gone forever.',
+  'It\'s different to hoist a load voluntarily than to have it thrust upon you. ~ Jordan Peterson'
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
