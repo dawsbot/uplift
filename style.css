@@ -30,9 +30,21 @@ html, body {
   position: absolute;
   bottom: 10px;
 }
+.copy {
+  height: 40px;
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
 a {
   color: inherit;
   text-decoration: underline;
+}
+@media only screen and (max-width: 550px) {
+  .copy {
+    top: 10px !important;
+  }
 }
 @media only screen and (max-width: 800px) {
   body {
