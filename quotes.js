@@ -96,7 +96,25 @@ function replaceQuote() {
   quoteElement.innerHTML = randomQuote;
 }
 replaceQuote();
-window.onclick = replaceQuote;
+window.onclick = function(event) {
+  // Don't change quote if user clicks the copy icon
+  if (event.target.nodeName !== 'IMG') {
+    replaceQuote();
+  }
+}
+
+// https://www.30secondsofcode.org/blog/s/copy-text-to-clipboard-with-javascript
+function copyToClipboard() {
+  const el = document.createElement('textarea');
+  el.value = quoteElement.innerHTML;
+  el.setAttribute('readonly', '');
+  el.style.position = 'absolute';
+  el.style.left = '-9999px';
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+};
 
 // google analytics
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
