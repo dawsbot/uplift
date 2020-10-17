@@ -86,7 +86,9 @@ var quotes = [
   'The most important things in life are non-transactional. You can not conspire for happiness.',
   'Don\'t become a wandering generality. Be a meaningful specific.',
   'There’s a myth that time is money. In fact, time is more precious than money. It’s a nonrenewable resource. Once you’ve spent it, and if you’ve spent it badly, it’s gone forever.',
-  'It\'s different to hoist a load voluntarily than to have it thrust upon you. ~ Jordan Peterson'
+  'It\'s different to hoist a load voluntarily than to have it thrust upon you. ~ Jordan Peterson',
+  'Those who dance are considered mad by those who cannot hear the music.',
+  'The biggest mistake you can make is to accept the norms of your time.'
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
