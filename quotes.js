@@ -88,7 +88,8 @@ var quotes = [
   'There’s a myth that time is money. In fact, time is more precious than money. It’s a nonrenewable resource. Once you’ve spent it, and if you’ve spent it badly, it’s gone forever.',
   'It\'s different to hoist a load voluntarily than to have it thrust upon you. ~ Jordan Peterson',
   'Those who dance are considered mad by those who cannot hear the music.',
-  'The biggest mistake you can make is to accept the norms of your time.'
+  'The biggest mistake you can make is to accept the norms of your time.',
+  'The way we act determines how we feel way more often than the way we feel determines how we act. ~ Seth Godin.'
 ];
 
 var quoteElement = document.getElementsByClassName('quote')[0];
